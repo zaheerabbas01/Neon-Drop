@@ -2,7 +2,7 @@
 
 A fast-paced SFML arcade game where colorful shapes fall from the sky and you click them before they reach the bottom.
 
-## 🎮 Gameplay
+## Gameplay
 
 - You are playing a survival clicker.
 - Falling enemies spawn at random positions.
@@ -11,13 +11,13 @@ A fast-paced SFML arcade game where colorful shapes fall from the sky and you cl
 - If too many enemies slip past you, your health drops.
 - When health reaches zero, the game ends.
 
-## 🕹️ Controls
+## Controls
 
 - Left click: destroy a falling enemy
 - Enter: restart after game over
 - Esc: exit the game
 
-## ✨ Why this game feels fun
+## Why this game feels fun
 
 - Simple arcade loop
 - Quick reactions
@@ -25,7 +25,7 @@ A fast-paced SFML arcade game where colorful shapes fall from the sky and you cl
 - Score chasing and retry loop
 - Clean SFML rendering with a minimal UI
 
-## 🚀 Running the game
+## Running the game
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@ cmake --build build
 ./build/bin/MyGame
 ```
 
-## 🧩 Project type
+## Project type
 
 This project is built with:
 
@@ -51,14 +51,14 @@ This project is built with:
 - SFML 3
 - CMake
 
-## 📁 Main files
+## Main files
 
 - `src/main.cpp` — application entry point
 - `src/Game.cpp` — game loop, spawning, updates, rendering
 - `src/Game.h` — game class and state
 - `CMakeLists.txt` — build configuration
 
-## 💡 Recommended repo name
+## Recommended repo name
 
 I’d suggest naming the GitHub repo:
 
@@ -66,7 +66,7 @@ I’d suggest naming the GitHub repo:
 
 It feels short, memorable, and matches the game’s visual style.
 
-## 🛠️ Optional next upgrades
+## Optional next upgrades
 
 - add sound effects
 - add a start menu
