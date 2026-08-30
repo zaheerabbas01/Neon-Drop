@@ -58,14 +58,6 @@ This project is built with:
 - `src/Game.h` — game class and state
 - `CMakeLists.txt` — build configuration
 
-## Recommended repo name
-
-I’d suggest naming the GitHub repo:
-
-`neon-drop`
-
-It feels short, memorable, and matches the game’s visual style.
-
 ## Optional next upgrades
 
 - add sound effects
