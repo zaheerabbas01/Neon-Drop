@@ -1,0 +1,35 @@
+# Build directories
+/build/
+/build-local/
+/build-youtube/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+install_manifest.txt
+CTestTestfile.cmake
+
+# SFML / dependency build outputs
+_deps/
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+
+# IDE/editor files
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# OS files
+.DS_Store
+Thumbs.db

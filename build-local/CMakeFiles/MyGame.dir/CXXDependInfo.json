@@ -1,0 +1,35 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/zaheer-abbas/Games/youtube/game 1/build-local",
+	"dir-cur-src" : "/home/zaheer-abbas/Games/youtube/game 1",
+	"dir-top-bld" : "/home/zaheer-abbas/Games/youtube/game 1/build-local",
+	"dir-top-src" : "/home/zaheer-abbas/Games/youtube/game 1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/zaheer-abbas/Games/youtube/game 1/build/_deps/sfml-src/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/zaheer-abbas/Games/youtube/game 1/build-local/CMakeFiles/MyGame.dir",
+	"sources" : 
+	{
+		"CMakeFiles/MyGame.dir/src/Game.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/zaheer-abbas/Games/youtube/game 1/src/Game.cpp"
+		},
+		"CMakeFiles/MyGame.dir/src/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/zaheer-abbas/Games/youtube/game 1/src/main.cpp"
+		}
+	}
+}
