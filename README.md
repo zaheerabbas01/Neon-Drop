@@ -36,7 +36,7 @@ A fast-paced SFML arcade game where colorful shapes fall from the sky and you cl
 ### Build and run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/zaheerabbas01/Neon-Drop.git
 cd neon-drop
 cmake -S . -B build
 cmake --build build
